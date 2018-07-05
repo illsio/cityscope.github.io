@@ -5,7 +5,7 @@
 
 ----
 
-CityScope hardware setup for CS+HCU FindingPlaces project, 2016
+CityScope hardware setup for CSL+HCU FindingPlaces project, 2016
   
   
       
